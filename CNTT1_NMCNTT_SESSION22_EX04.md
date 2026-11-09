@@ -1,14 +1,3 @@
-**1\. Mục tiêu**
-
-So sánh sự đánh đổi (Trade-off) giữa các chỉ số uy tín trên diễn đàn kỹ thuật.
-
-**2\. Bối cảnh**
-
-Bạn tìm thấy hai giải pháp cho lỗi "Git Permission Denied" trên StackOverflow:
-
-* **Giải pháp 1:** Có Accepted Checkmark ✓, đăng từ năm 2014, có 500 upvotes.  
-* **Giải pháp 2:** Không có tích xanh, đăng từ năm 2023, có 50 upvotes nhưng bình luận bên dưới ghi: "This works for Windows 11" .
-
 **3\. Yêu cầu đầu ra**
 
 * Lập bảng so sánh Ưu/Nhược điểm của 2 giải pháp này dựa trên các tiêu chí: Độ tin cậy lịch sử, Tính cập nhật với hệ điều hành mới, và rủi ro gây hỏng thiết lập hiện tại.
